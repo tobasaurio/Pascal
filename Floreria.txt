@@ -1,0 +1,21 @@
+Primavera 10
+10 R
+5 J
+20 C
+0
+Dulcinea  15
+18 M
+16 R
+7 C
+2 J
+0
+RosasyMas 20
+20 C
+50 R
+25 J
+0
+RegalosMDQ 18
+75 J
+10 M
+0
+*
